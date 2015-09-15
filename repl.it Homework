@@ -1,0 +1,9 @@
+
+puts "How many hours/weeks do you work?"
+hours = gets.chomp.to_i
+puts "How much per hour do you make?"
+money = gets.chomp.to_i
+puts" How many weeks did you work?"
+weeks = gets.chomp.to_i
+amount = hours*money*weeks
+puts " You would make #{amount}"

@@ -1,3 +1,3 @@
-Number:14
-String:Francisco
-booleans:True
+my_number = 14
+my_string = "Francisco"
+boolean = true
